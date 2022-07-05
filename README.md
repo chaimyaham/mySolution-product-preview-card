@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://github.com/chaimyaham/mySolution-product-preview-card)
+- Live Site URL: [live site URL](https://chaimyaham.github.io/mySolution-product-preview-card/)
 
 
 
@@ -67,6 +67,6 @@ I WANT TO CONTINUE LEARNING THE CSS VARIABLE BECAUSE I FOUND THEM VERY USEFUL al
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/chaimyaham)
+- Frontend Mentor - [@chaimyaham](https://www.frontendmentor.io/profile/chaimyaham)
 
 
